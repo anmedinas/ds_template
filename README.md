@@ -1,7 +1,7 @@
-# practica_setup
+## Proyecto Template
 
 **Creado**: 2026-04-28  
-**Curso**: Machine Learning Aplicado a las Finanzas — USACH
+**Curso**: Data Science Aplicado a las Finanzas — USACH
 
 ## Descripción
 
